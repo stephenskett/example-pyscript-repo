@@ -1,0 +1,2 @@
+# Version-control should ignore the folder where you will set up your Python-env
+.venv/
